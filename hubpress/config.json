@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "roon"
+    "name": "casper"
   },
   "urls": {
     "site": "https://ronanki.github.io",
     "hubpress": "https://ronanki.github.io",
-    "theme": "//ronanki.github.io/themes/uno",
+    "theme": "//ronanki.github.io/themes/roon",
     "images": "https://ronanki.github.io/images"
   },
   "initialisationConfigComponent": {
