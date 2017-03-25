@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://ronanki.github.io",
     "hubpress": "https://ronanki.github.io",
-    "theme": "//ronanki.github.io/themes/roon",
+    "theme": "//ronanki.github.io/themes/casper",
     "images": "https://ronanki.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -25,7 +25,7 @@
     ]
   },
   "site": {
-    "title": "Life is a journey",
+    "title": "Life is a journey, not a destination",
     "description": "",
     "logo": "",
     "cover": "http://www.summerschool.ed.ac.uk/sites/default/files/Calton-Hill-16-9.jpg",
