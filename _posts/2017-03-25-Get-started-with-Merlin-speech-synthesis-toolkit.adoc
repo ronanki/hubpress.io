@@ -9,7 +9,9 @@
 
 :hp-tags: Merlin, speech_synthesis
 
-[red]#Obvious# and 
+[red]#The Merlin Toolkit# 
+
+Merlin is a toolkit for building Deep Neural Network models for statistical parametric speech synthesis. It must be used in combination with a front-end text processor (e.g., Festival) and a vocoder (e.g., STRAIGHT or WORLD).
 
 
 
