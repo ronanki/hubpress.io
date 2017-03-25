@@ -7,4 +7,6 @@
 
 = Welcome
 
+:hp-image: http://www.junkinside.com/wp-content/uploads/colorful-nature-facebook-cover.jpg
+
 Hi! This is Srikanth -- checkout my new blog. 
