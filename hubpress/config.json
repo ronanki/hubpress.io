@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "the-shell"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "https://ronanki.github.io",
     "hubpress": "https://ronanki.github.io",
-    "theme": "//ronanki.github.io/themes/casper",
+    "theme": "//ronanki.github.io/themes/the-shell",
     "images": "https://ronanki.github.io/images"
   },
   "initialisationConfigComponent": {
