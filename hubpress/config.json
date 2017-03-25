@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://ronanki.github.io",
     "hubpress": "https://ronanki.github.io",
-    "theme": "//ronanki.github.io/themes/uno-zen",
+    "theme": "//ronanki.github.io/themes/uno",
     "images": "https://ronanki.github.io/images"
   },
   "initialisationConfigComponent": {
