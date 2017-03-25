@@ -2,7 +2,8 @@
   "meta": {
     "username": "ronanki",
     "repositoryName": "ronanki.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "srikanth.ronanki@ed.ac.uk",
+    "github": "https://github.com/ronanki",
+    "twitter": "https://twitter.com/ronanki_",
+    "facebook": "https://www.facebook.com/ronanki",
+    "googleplus": "https://plus.google.com/+srikanthronanki",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
